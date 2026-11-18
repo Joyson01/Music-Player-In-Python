@@ -1,0 +1,185 @@
+{
+  "tracks": [
+    {
+      "id": "sh-1",
+      "title": "SoundHelix Song 1",
+      "artist": "T. Schürger",
+      "genre": "Electronic",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "art": "assets/mix-1.svg",
+      "duration": 0,
+      "source": "https://www.soundhelix.com/audio-examples",
+      "credit": "T. Schürger / SoundHelix"
+    },
+    {
+      "id": "sh-2",
+      "title": "SoundHelix Song 2",
+      "artist": "T. Schürger",
+      "genre": "Electronic",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "art": "assets/mix-2.svg",
+      "duration": 0,
+      "source": "https://www.soundhelix.com/audio-examples",
+      "credit": "T. Schürger / SoundHelix"
+    },
+    {
+      "id": "sh-3",
+      "title": "SoundHelix Song 3",
+      "artist": "T. Schürger",
+      "genre": "Electronic",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "art": "assets/mix-3.svg",
+      "duration": 0,
+      "source": "https://www.soundhelix.com/audio-examples",
+      "credit": "T. Schürger / SoundHelix"
+    },
+    {
+      "id": "sh-4",
+      "title": "SoundHelix Song 4",
+      "artist": "T. Schürger",
+      "genre": "Electronic",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "art": "assets/mix-4.svg",
+      "duration": 0,
+      "source": "https://www.soundhelix.com/audio-examples",
+      "credit": "T. Schürger / SoundHelix"
+    },
+    {
+      "id": "sh-5",
+      "title": "SoundHelix Song 5",
+      "artist": "T. Schürger",
+      "genre": "Electronic",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "art": "assets/mix-5.svg",
+      "duration": 0,
+      "source": "https://www.soundhelix.com/audio-examples",
+      "credit": "T. Schürger / SoundHelix"
+    },
+    {
+      "id": "sh-6",
+      "title": "SoundHelix Song 6",
+      "artist": "T. Schürger",
+      "genre": "Electronic",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "art": "assets/mix-6.svg",
+      "duration": 0,
+      "source": "https://www.soundhelix.com/audio-examples",
+      "credit": "T. Schürger / SoundHelix"
+    },
+    {
+      "id": "sh-7",
+      "title": "SoundHelix Song 7",
+      "artist": "T. Schürger",
+      "genre": "Electronic",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "art": "assets/mix-1.svg",
+      "duration": 0,
+      "source": "https://www.soundhelix.com/audio-examples",
+      "credit": "T. Schürger / SoundHelix"
+    },
+    {
+      "id": "sh-8",
+      "title": "SoundHelix Song 8",
+      "artist": "T. Schürger",
+      "genre": "Electronic",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "art": "assets/mix-2.svg",
+      "duration": 0,
+      "source": "https://www.soundhelix.com/audio-examples",
+      "credit": "T. Schürger / SoundHelix"
+    }
+  ],
+  "mixes": [
+    {
+      "id": "afternoon",
+      "title": "Purrfect afternoon",
+      "description": "A little rhythm for your well-earned pause.",
+      "mood": "Chill",
+      "art": "assets/mix-3.svg",
+      "tracks": [
+        "sh-1",
+        "sh-2",
+        "sh-5",
+        "sh-8"
+      ]
+    },
+    {
+      "id": "after-hours",
+      "title": "After hours",
+      "description": "Lights low. Volume just right.",
+      "mood": "Electronic",
+      "art": "assets/mix-1.svg",
+      "tracks": [
+        "sh-3",
+        "sh-6",
+        "sh-7",
+        "sh-1"
+      ]
+    },
+    {
+      "id": "slow-mornings",
+      "title": "Slow mornings",
+      "description": "Ease into your own little world.",
+      "mood": "Chill",
+      "art": "assets/mix-2.svg",
+      "tracks": [
+        "sh-2",
+        "sh-5",
+        "sh-8",
+        "sh-4"
+      ]
+    },
+    {
+      "id": "golden-hour",
+      "title": "Golden hour",
+      "description": "Sounds for the softer side of the day.",
+      "mood": "Electronic",
+      "art": "assets/mix-3.svg",
+      "tracks": [
+        "sh-5",
+        "sh-1",
+        "sh-4",
+        "sh-6"
+      ]
+    },
+    {
+      "id": "night-drive",
+      "title": "Night drive",
+      "description": "Take the long way home.",
+      "mood": "Electronic",
+      "art": "assets/mix-4.svg",
+      "tracks": [
+        "sh-6",
+        "sh-7",
+        "sh-3",
+        "sh-2"
+      ]
+    },
+    {
+      "id": "good-company",
+      "title": "Good company",
+      "description": "Your soundtrack for doing absolutely anything.",
+      "mood": "Electronic",
+      "art": "assets/mix-5.svg",
+      "tracks": [
+        "sh-4",
+        "sh-1",
+        "sh-8",
+        "sh-7"
+      ]
+    },
+    {
+      "id": "soft-focus",
+      "title": "Soft focus",
+      "description": "Find a rhythm. Stay a while.",
+      "mood": "Chill",
+      "art": "assets/mix-6.svg",
+      "tracks": [
+        "sh-8",
+        "sh-2",
+        "sh-5",
+        "sh-3"
+      ]
+    }
+  ]
+}
